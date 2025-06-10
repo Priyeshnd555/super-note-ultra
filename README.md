@@ -82,3 +82,4 @@ This repository uses a structured branching model to manage development, testing
 
 - Regular merges from `main` to `sprint-1` ensure the development branch is up to date.
 - Tag releases on the `main` branch using annotated tags for version tracking.
+- Each Sprint shoudld not contain more than 4 Features / 4 Sub branches
